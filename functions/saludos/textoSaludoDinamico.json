@@ -1,0 +1,14 @@
+[  
+	{  
+	   "intento": 0,
+	   "saludotext": "{NOMBRE_USUARIO}soy Amanda la asistente virtual de Falabella."
+	},
+	{  
+	   "intento": 1,
+	   "saludotext": "{NOMBRE_USUARIO}soy Amanda, la asistente virtual de Falabella y estoy aquí para ayudarte."
+	},
+	{  
+	   "intento": 2,
+	   "saludotext": "{NOMBRE_USUARIO}creo que ya nos hemos saludado, ¿Te puedo ayudar con alguna duda?"
+	}
+]

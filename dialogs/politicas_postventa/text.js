@@ -1,0 +1,3 @@
+module.exports = {
+  text1: `Nuestro compromiso de Satisfacción Garantizada te permite cambiar o devolver tu producto hasta 30 días después de la fecha en que lo hayas recibido, en cualquier tienda Falabella. Para más información haz click [aquí](https://www.falabella.com/falabella-cl/category/cat2460013/Cambio-y-devoluciones). Recuerda que para realizar tus cambios y devoluciones puedes acercarte a cualquier caja en la tienda.`
+}

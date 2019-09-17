@@ -1,0 +1,3 @@
+module.exports = {
+    text1: `Si aún no has recibido el correo de confirmación de tu compra te recomiendo que esperes un momento, ya que en ocasiones se demora. Si no encuentra el email de confirmación puedes consultar a nuestro servicio de atención al cliente al número [600 380 5000](tel:600 380 5000) También puedes revisar el seguimiento de tu orden [aquí](https://www.falabella.com/falabella-cl/mi-cuenta/ordenes?cbid=chatbot-webtracking).`
+}

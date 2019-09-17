@@ -1,0 +1,47 @@
+{
+  "name": "amanda-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "logfile": "nodemon app.js >> logs.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@buffet-gitlab.eastus2.cloudapp.azure.com:subgerenciaia_asistentevirtual_celulaamanda/integracion-front-ventas.git"
+  },
+  "author": "Adessa Falabella Chile",
+  "license": "ISC",
+  "dependencies": {
+    "applicationinsights": "^1.0.7",
+    "axios": "^0.18.0",
+    "botbuilder": "3.15.0",
+    "chai": "^4.1.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^6.1.0",
+    "eslint": "^5.6.0",
+    "eslint-config-node": "^3.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "events": "^3.0.0",
+    "json-validator": "0.0.34",
+    "jsonschema": "^1.2.4",
+    "linq": "^3.1.0",
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0",
+    "moment-timezone": "^0.5.16",
+    "mongodb": "^3.0.7",
+    "mssql": "^4.1.0",
+    "nodemon": "^1.18.7",
+    "request": "^2.88.0",
+    "restify": "^7.3.0",
+    "string-format": "^1.0.0",
+    "string-similarity": "^1.2.1",
+    "tedious": "^3.0.1",
+    "winston": "3.2.1"
+  }
+}

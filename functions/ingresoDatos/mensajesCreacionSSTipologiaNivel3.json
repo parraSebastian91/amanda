@@ -1,0 +1,122 @@
+[
+    {
+        "tipologia": "Anulación de compra parcial",
+        "mensaje": "$se_anula_compra_parcial$ Procesaré la anulación de parte de tu compra. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Recuerda que te enviaremos la nota de crédito al mail registrado en la compra."
+    },
+    {
+        "tipologia": "Anulación de compra total",
+        "mensaje": "$se_anula_compra_total$ Procesaré la anulación total de tu compra. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Recuerda que te enviaremos la nota de crédito al mail registrado en la compra."
+    },
+    {
+        "tipologia": "Envío/Retiro Manual - PNC",
+        "mensaje": "Procesaré la anulación total de tu compra. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Recuerda que te enviaremos la nota de crédito al mail registrado en la compra."
+    },
+    {
+        "tipologia": "Atraso de emisión de factura",
+        "mensaje": "Hemos creado una solicitud por atraso de emisión en tu boleta / factura. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para solucionar este inconveniente lo antes posible."
+    },
+    {
+        "tipologia": "Producto Entregado",
+        "mensaje": "Lamento esta situación, por favor revisa con tu entidad bancaria para aclarar este incoveniente lo antes posible."
+    },
+    {
+        "tipologia": "Producto No Entregado",
+        "mensaje": "Lamento esta confusión, hemos creado una solicitud por el problema con la compra que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "Devolucion no acreditada en TC",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el atraso con la devolución de dinero en tu tarjeta de crédito. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para regularizar la devolución lo antes posible."
+    },
+    {
+        "tipologia": "Error en cobro tarjeta CMR",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el problema con el cobro en tu tarjeta CMR. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "Error en cobro tarjeta externa",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente con el cobro en tu tarjeta. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "Incumplimiento fecha Entrega",
+        "mensaje": "$crea_SS$ Lamento esta situación, hemos creado una solicitud por el atraso con tu despacho. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para solucionar este inconveniente lo antes posible."
+    },
+    {
+        "tipologia": "Problema con el Transportista",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por lo ocurrido con el transportista. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "E/R mismo Producto - PNC",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para coordinar el envío y retiro lo antes posible."
+    },
+    {
+        "tipologia": "Problema con Página web",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Uno de nuestros ejecutivos revisará lo reportado y trabajará para dar una solución lo antes posible, gracias por avisar."
+    },
+    {
+        "tipologia": "Publicidad engañosa",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "Incpmto Políticas Devoluciones",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "Compra regalo mal realizada",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por inconvenientes con tu compra de novios. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para solucionar este inconveniente lo antes posible."
+    },
+    {
+        "tipologia": "Inconf Serv Post-Venta Ext",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente con la garantía extendida. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "Problema con Gift Card",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el problema con tu giftcard. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para solucionar este inconveniente lo antes posible."
+    },
+    {
+        "tipologia": "Solicitud Uso Garantía Ext",
+        "mensaje": "hemos creado una solicitud para que puedas hacer uso de la garantía extendida que tienes contratada. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Trabajaré en gestioanr este requerimiento lo antes posible."
+    },
+    {
+        "tipologia": "Cambio Fecha de armado",
+        "mensaje": "hemos creado una solicitud por el cambio de fecha de armado de tu producto. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Trabajaré en gestionar lo antes posible el cambio de fecha solicitado."
+    },
+    {
+        "tipologia": "Reclamo por Servicio de armado",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente con el armado de tu producto. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para aclarar esta situación lo antes posible."
+    },
+    {
+        "tipologia": "Solicitud de armado",
+        "mensaje": "hemos creado tu solicitud por nuestro servicio de armado de muebles. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Trabajaré en gestionar lo antes posible el servicio de armado de tu producto."
+    },
+    {
+        "tipologia": "E/R distinto Producto - PI",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para dar una solución lo antes posible."
+    },
+    {
+        "tipologia": "E/R mismo Producto - PD",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para coordinar el envío y retiro lo antes posible."
+    },
+    {
+        "tipologia": "",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará en gestionar tu requerimiento lo antes posible."
+    },
+    {
+        "tipologia": "FC / NC Administrativa",
+        "mensaje": "hemos creado una solicitud por cambio de boleta a factura. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Trabajaré en gestionar lo antes posible tu requerimiento."
+    },
+    {
+        "tipologia": "Anulacion garantia extendida",
+        "mensaje": "Hemos recibido tu solicitud por anulación de Garantia Extendida. El número de tu solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos se encuentra trabajando para darte una pronta respuesta"
+    },
+    {
+        "tipologia": "Solicitud garantia extendida",
+        "mensaje": "Hemos recibido tu solicitud por uso de Garantia Extendida. El número de tu solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos se encuentra trabajando para darte una pronta respuesta"
+    },
+    {
+        "tipologia": "Problema con Usuario web/Clave",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para dar una solución lo antes posible."
+    },
+    {
+        "tipologia": "Problema con Página web",
+        "mensaje": "Lamento esta situación, hemos creado una solicitud por el inconveniente que mencionas. Para hacer seguimiento, el número de esta solicitud es: <br>$ID_SOLICITUD<br><br> Tu caso es muy importante para nosotros, es por eso que uno de nuestros ejecutivos trabajará para dar una solución lo antes posible."
+    }
+]

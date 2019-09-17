@@ -1,0 +1,5 @@
+module.exports = {
+    text1: 'Si tu producto presenta una falla o defecto dentro de los primeros 90 días en que lo recibiste, puedes optar por reparación gratuita, cambio o devolución del valor de tu compra (no considera daño o falla por mala manipulación).',
+    text2: 'Tu producto lo puedes entregar directamente en un servicio técnico autorizado por el fabricante o, si lo prefieres, te lo recibimos en cualquier tienda Falabella de Chile siempre y cuando sea un producto pequeño. Si es un producto grande como  por ejemplo lavadora, secadoras, cocina, refrigeradores, estos deben ser revisados en tu domicilio por un técnico de la empresa fabricante dentro del periodo de la garantia del proveedor.',
+    text3: `Si tu producto no cumple con lo mencionado, y necesitas utilizar tu garantía extendida puedes llamar al número [800 810 800](tel:800 810 800) y serás asesorado por uno de nuestros ejecutivos.`
+}

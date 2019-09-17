@@ -1,0 +1,1106 @@
+[
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Anulación de compra parcial",
+    "mensaje": "Hemos recibido tu solicitud por Nota de Crédito. Estamos gestionando tu requerimiento para realizar la devolución del dinero."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Anulación de compra parcial",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento por nota de crédito. Un ejecutivo especializado está trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Anulación de compra parcial",
+    "mensaje": "Tu requerimiento de Nota de Crédito ha sido resuelto. Pronto te enviaremos la documentación a tu correo electrónico."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Anulación de compra parcial",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Anulación de compra parcial",
+    "mensaje": "Tu requerimiento de Nota de Crédito se encuentra finalizado. Te hemos contactado y enviado la nota de crédito a tu correo que nos has indicado anteriormente."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Anulación de compra parcial",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Anulación de compra total",
+    "mensaje": "Hemos recibido tu solicitud por Nota de Crédito. Estamos gestionando tu requerimiento para realizar la devolución del dinero."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Anulación de compra total",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento por nota de crédito. Un ejecutivo especializado está trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Anulación de compra total",
+    "mensaje": "Tu requerimiento de Nota de Crédito ha sido resuelto. Pronto te enviaremos la documentación a tu correo electrónico."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Anulación de compra total",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Anulación de compra total",
+    "mensaje": "Tu requerimiento de Nota de Crédito se encuentra finalizado. Te hemos contactado y enviado la nota de crédito a tu correo que nos has indicado anteriormente."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Anulación de compra total",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Atraso de emisión de factura",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con emisión de factura. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Atraso de emisión de factura",
+    "mensaje": "Estamos trabajando para dar solución a tu solicitud de inconvenientes con emisión de factura. Un ejecutivo especializado está trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Atraso de emisión de factura",
+    "mensaje": "Tu requerimento por inconvenientes con emisión de factura ha sido resuelta. Te hemos enviado la información solicitada a tu correo electrónico."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Atraso de emisión de factura",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Atraso de emisión de factura",
+    "mensaje": "Tu requerimiento por inconveniente con emisión de factura se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Atraso de emisión de factura",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Desconocimiento de Compra/ Producto Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Desconocimiento de Compra/ Producto Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Desconocimiento de Compra/ Producto Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Desconocimiento de Compra/ Producto Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Desconocimiento de Compra/ Producto Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Desconocimiento de Compra/ Producto Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Desconocimiento de Compra/ Producto No Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Desconocimiento de Compra/ Producto No Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Desconocimiento de Compra/ Producto No Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Desconocimiento de Compra/ Producto No Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Desconocimiento de Compra/ Producto No Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Desconocimiento de Compra/ Producto No Entregado",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Devolucion no acreditada en TC",
+    "mensaje": "Hemos recibido tu solicitud por devolución de dinero. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Devolucion no acreditada en TC",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de  devolución de dinero. Un ejecutivo especializado está trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Devolucion no acreditada en TC",
+    "mensaje": "Tu solicitud de devolución de dinero ha sido resuelta."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Devolucion no acreditada en TC",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Devolucion no acreditada en TC",
+    "mensaje": "Tu requerimiento por devolución de dinero se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Devolucion no acreditada en TC",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Error en cobro tarjeta CMR",
+    "mensaje": "Hemos recibido tu solicitud por devolución de dinero. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Error en cobro tarjeta CMR",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de  devolución de dinero. Un ejecutivo especializado está trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Error en cobro tarjeta CMR",
+    "mensaje": "Tu requerimiento por devolución de dinero ha sido resuelto. Te recomiento que revises el estado de cuenta de tu tarjeta."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Error en cobro tarjeta CMR",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Error en cobro tarjeta CMR",
+    "mensaje": "Tu requerimiento por devolución de dinero se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Error en cobro tarjeta CMR",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Error en cobro tarjeta externa",
+    "mensaje": "Hemos recibido tu solicitud por devolución de dinero. Estamos gestionando tu requerimiento para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Error en cobro tarjeta externa",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento de devolución de dinero. Un ejecutivo especializado está trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Error en cobro tarjeta externa",
+    "mensaje": "Tu requerimiento por devolución de dinero ha sido resuelto. Te recomiento que revises el estado de cuenta de tu tarjeta."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Error en cobro tarjeta externa",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Error en cobro tarjeta externa",
+    "mensaje": "Tu requerimiento por devolución de dinero se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Error en cobro tarjeta externa",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Devolución Parcial de compra",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Devolución Parcial de compra",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Devolución Parcial de compra",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Devolución Parcial de compra",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Devolución Parcial de compra",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Devolución Parcial de compra",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Envío de mismo SKU",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Envío de mismo SKU",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Envío de mismo SKU",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Envío de mismo SKU",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Envío de mismo SKU",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Envío de mismo SKU",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Incumplimiento fecha Cambio",
+    "mensaje": "Hemos recibido tu solicitud por inconveniente con fecha de cambio. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Incumplimiento fecha Cambio",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de inconveniente con fecha de cambio. Un ejecutivo especializado está trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Incumplimiento fecha Cambio",
+    "mensaje": "Tu requerimiento por inconveniente de fecha de ha sido resuelto. Te recomiento que revises el estado de cuenta de tu tarjeta."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Incumplimiento fecha Cambio",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Incumplimiento fecha Cambio",
+    "mensaje": "Tu requerimiento por inconveniente con fecha de cambio se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Incumplimiento fecha Cambio",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Incumplimiento fecha Entrega",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con tu despacho. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Incumplimiento fecha Entrega",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento por inconveniente con tu despacho. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Incumplimiento fecha Entrega",
+    "mensaje": "Tu requerimiento por inconveniente con tu despacho ha sido resuelto. Estamos gestionando el envío de tu producto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Incumplimiento fecha Entrega",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Incumplimiento fecha Entrega",
+    "mensaje": "Tu requerimiento por inconveniente con tu despacho se encuentra finalizado. El producto ya se encuentra en el domicilio indicado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Incumplimiento fecha Entrega",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Incumplimiento fecha Retiro",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con tu despacho. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Incumplimiento fecha Retiro",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento por inconveniente con tu despacho. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Incumplimiento fecha Retiro",
+    "mensaje": "Tu requerimiento por inconveniente con tu despacho ha sido resuelto. Estamos gestionando el retiro de tu producto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Incumplimiento fecha Retiro",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Incumplimiento fecha Retiro",
+    "mensaje": "Tu requerimiento por inconveniente con tu despacho se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Incumplimiento fecha Retiro",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Problema con el Transportista",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con el trasportista. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Problema con el Transportista",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de inconvenientes con el transportista. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Problema con el Transportista",
+    "mensaje": "Tu requerimiento por inconvenientes con el transportista ha sido resuelto. Hemos generado una amonestación con la empresa de transporte. Te pedimos disculpa por la situación que nos has indicado."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Problema con el Transportista",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Problema con el Transportista",
+    "mensaje": "Tu requerimiento por inconvenientes con el transportista ha sido finalizado. Hemos generado una amonestación con la empresa de transporte. Te pedimos disculpa por la situación que nos has indicado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Problema con el Transportista",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Problema con Página web",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con página web. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Problema con Página web",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de inconvenientes con página web. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Problema con Página web",
+    "mensaje": "Tu requerimiento por inconvenientes con página web ha sido resuelto. Estamos trabajando para entregarte la mejor experiencia de compra en Falabella.com"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Problema con Página web",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Problema con Página web",
+    "mensaje": "Tu requerimiento por inconvenientes con página web ha sido finalizado. Estamos trabajando para entregarte la mejor experiencia de compra en Falabella.com. ¡Gracias por ayudarnos a mejorar!"
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Problema con Página web",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Publicidad engañosa",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con página web. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Publicidad engañosa",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento de inconvenientes con página web. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Publicidad engañosa",
+    "mensaje": "Tu requerimiento por inconvenientes con página web ha sido resuelto. Estamos trabajando para entregarte la mejor experiencia de compra en Falabella.com"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Publicidad engañosa",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Publicidad engañosa",
+    "mensaje": "Tu requerimiento por inconvenientes con página web ha sido finalizado. Estamos trabajando para entregarte la mejor experiencia de compra en Falabella.com. ¡Gracias por ayudarnos a mejorar!"
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Publicidad engañosa",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Devolución por NC - DEV",
+    "mensaje": "Hemos recibido tu solicitud por devolución de producto. Estamos gestionando tu requerimiento."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Devolución por NC - DEV",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento de devolución de producto. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Devolución por NC - DEV",
+    "mensaje": "Tu requerimiento de devolución de producto ha sido resuelto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Devolución por NC - DEV",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Devolución por NC - DEV",
+    "mensaje": "Tu requerimiento de devolución de producto se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Devolución por NC - DEV",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Incumplimiento Políticas Devoluciones",
+    "mensaje": "Hemos recibido tu solicitud por Servicios de Postventa. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Incumplimiento Políticas Devoluciones",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de Servicios Postventa. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Incumplimiento Políticas Devoluciones",
+    "mensaje": "Tu requerimiento por Servicios Postventa ha sido resuelto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Incumplimiento Políticas Devoluciones",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Incumplimiento Políticas Devoluciones",
+    "mensaje": "Tu requerimiento por Servicios Postventa se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Incumplimiento Políticas Devoluciones",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Retiro por Cambio de Producto",
+    "mensaje": "Hemos recibido tu solicitud por retiro de producto. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Retiro por Cambio de Producto",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento de retiro de producto. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Retiro por Cambio de Producto",
+    "mensaje": "Tu requerimiento por retiro de producto ha sido resuelto. Estamos gestionando el retiro de tu producto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Retiro por Cambio de Producto",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Retiro por Cambio de Producto",
+    "mensaje": "Tu requerimiento por retiro de producto se encuentra finalizado. El producto ya lo hemos ido a retirar del domicilio indicado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Retiro por Cambio de Producto",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Compra regalo mal realizada",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Compra regalo mal realizada",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Compra regalo mal realizada",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Compra regalo mal realizada",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Compra regalo mal realizada",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Compra regalo mal realizada",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Inconf Serv Post-Venta Ext",
+    "mensaje": "Hemos recibido tu solicitud por Servicios de Postventa. Estamos gestionando tu requerimiento para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Inconf Serv Post-Venta Ext",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de Servicios Postventa. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Inconf Serv Post-Venta Ext",
+    "mensaje": "Tu requerimiento por Servicios Postventa ha sido resuelto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Inconf Serv Post-Venta Ext",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Inconf Serv Post-Venta Ext",
+    "mensaje": "Tu requerimiento por Servicios Postventa se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Inconf Serv Post-Venta Ext",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Problema con Gift Card",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con tu Gift Card. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Problema con Gift Card",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de Inconvenientes con Gift Card. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Problema con Gift Card",
+    "mensaje": "Tu requerimiento por Inconvenientes con Gift Card ha sido resuelto. Ahora puedes intentar nuevamente comprar nuestros productos en Falabella."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Problema con Gift Card",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Problema con Gift Card",
+    "mensaje": "Tu requerimiento por Inconvenientes con Gift Card se encuentra finalizado. Ahora puedes intentar nuevamente comprar nuestros productos en Falabella."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Problema con Gift Card",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Cambio Fecha de armado",
+    "mensaje": "Hemos recibido tu solicitud por cambio de fecha de armado. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Cambio Fecha de armado",
+    "mensaje": "Estamos trabajando para dar solución a tu requermiento de cambio para armado. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Cambio Fecha de armado",
+    "mensaje": "Tu requerimiento por cambio de fecha de armado ha sido resuelto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Cambio Fecha de armado",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Cambio Fecha de armado",
+    "mensaje": "Tu requerimiento por cambio de fecha de armado se encuentra finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Cambio Fecha de armado",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Reclamo por Servicio de armado",
+    "mensaje": "Hemos recibido tu solicitud por inconvenientes con servicio de armado. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Reclamo por Servicio de armado",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento de inconvenientes con servicio de armado. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Reclamo por Servicio de armado",
+    "mensaje": "Tu requerimiento por inconvenientes con el Servicio de Armado ha sido resuelto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Reclamo por Servicio de armado",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Reclamo por Servicio de armado",
+    "mensaje": "Tu requerimiento por Inconvenientes con el Servicio de Armado está finalizado."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Reclamo por Servicio de armado",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "Solicitud de armado",
+    "mensaje": "Hemos recibido tu solicitud de Servicio de Armado. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "Solicitud de armado",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento de Solicitud de Armado. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "Solicitud de armado",
+    "mensaje": "Tu requerimiento Servicio de Armado ha sido resuelto."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "Solicitud de armado",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "Solicitud de armado",
+    "mensaje": "Tu requerimiento por Servicio de Armaddo ha sido finalizado. La fecha agendada para el armado es dd/mm/aa"
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "Solicitud de armado",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  },
+  {
+    "Estado": "",
+    "subEstado": "",
+    "tipologia": "",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Estados para el resto de tipologías no detalladas anteriormente",
+    "subEstado": "",
+    "tipologia": "",
+    "mensaje": ""
+  },
+  {
+    "Estado": "",
+    "subEstado": "",
+    "tipologia": "",
+    "mensaje": ""
+  },
+  {
+    "Estado": "Estado",
+    "subEstado": "subEstado",
+    "tipologia": "tipologia",
+    "mensaje": "mensaje"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Asignado",
+    "tipologia": "",
+    "mensaje": "Hemos recibido tu solicitud de Servicio con fecha dd/mm/aa. Estamos gestionando tu requerimiento para darle una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "En proceso",
+    "tipologia": "",
+    "mensaje": "Estamos trabajando para dar solución a tu requerimiento. Un ejecutivo especializado se encuentra trabajando en tu caso para darte una pronta solución."
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Resuelta",
+    "tipologia": "",
+    "mensaje": "Tu requerimiento ha sido finalizado. Gracias por preferir Falabella"
+  },
+  {
+    "Estado": "Abierto",
+    "subEstado": "Pendiente Gestion Cliente",
+    "tipologia": "",
+    "mensaje": "Lamentablemente no nos hemos logrado contactar contigo aún. Hemos enviado información a tu correo para poder continuar con tu solicitud. Te recomiendo revisar los correos no deseados."
+  },
+  {
+    "Estado": "Cerrado",
+    "subEstado": "Finalizada",
+    "tipologia": "",
+    "mensaje": "Tu requerimiento ingresado el dd/mm/aa ha sido finalizado. Gracias por preferir Falabella."
+  },
+  {
+    "Estado": "Cancelada",
+    "subEstado": "Anulada",
+    "tipologia": "",
+    "mensaje": "Hemos tenido problemas para procesar tu solicitud. Te sugiero volver a generar el requerimiento."
+  }
+]

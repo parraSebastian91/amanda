@@ -1,0 +1,17 @@
+module.exports = {
+    text1: 'Si deseas realizar el cambio de boleta a factura puedes llamara nuestro Call center marcando al numero [600 380 5000](600 380 5000).',
+    text2: 'Perfecto, un ejecutivo se contactará contigo en unos minutos más.',
+    text3: 'Perfecto. Para solicitar el cambio de tu boleta a factura necesitaré algunos datos.',
+    cambioBoletaFactura_rut_no_registrado_en_oc: 'Lo siento, pero el RUT ingresado no coincide con el registrado en la compra. Por favor intenta nuevamente.',
+    cambioBoletaFactura_oc_no_coincide_en_perfil:'Lo siento, pero la orden de compra ingresada no coincide con los datos de tu perfil. Por favor intenta nuevamente.',
+    cambioBoletaFactura_solicitud_ya_ingresada: 'Estimado cliente, ya tienes una solicitud ingresada por cambio de boleta a factura. El número de seguimiento es: $SSYACREADA. Tu caso es muy importante para nosotros es por eso que seguimos gestionando tu requerimiento.',
+    cambioBoletaFactura_no_puede_cambiar_boleta_fecha_mayor_30_dias: 'No es posible realizar el cambio de boleta a factura debido a que han pasado más de 30 días desde la emisión de la boleta.',
+    cambioBoletaFactura_inconveniente_al_consultar_datos: 'Ha ocurrido un inconveniente al consultar los datos ingresados. Recuerda que también puedes ingresar tus solicitudes o realizar el seguimiento de tu orden en el siguiente [link](https://www.falabella.com/falabella-cl/mi-cuenta/ordenes).',
+    cambioBoletaFactura_ingreso_descripcion_solicitud: 'Este es el último paso, por favor describe en pocas palabras la solicitud que deseas ingresar.',
+    cambioBoletaFactura_creacion_solicitud_cambio_boleta: 'Hemos recibido tu solicitud por cambio de boleta a factura. El número de tu solicitud es: $NUMSSCREACIONSOLICITUD. Tu caso es muy importante para nosotros, es por eso que ya nos encontramos trabajando en tu caso.',
+    cambioBoletaFactura_ayuda_contacto_ejecutivo: 'Queremos ayudarte, es por esto que te damos la opción de contactarte con nuestros ejecutivos. Nuestro horario de atención es de 9:00 a 21:00 horas.',
+    cambioBoletaFactura_no_registra_solicitud: 'No pudimos registrar la solicitud de servicio para tu cambio de boleta a factura para la orden $OCSESSION.',
+    cambioBoletaFactura_contacto_de_ejecutivo: 'Un ejecutivo se contactará contigo a la brevedad.',
+    cambioBoletaFactura_ocurrio_inconveniente: 'Ha ocurrido un inconveniente. Por favor inténtelo nuevamente.',
+    cambioBoletaFactura_gracias_preferir_falabella: 'Gracias por preferir Falabella. Recuerda que estoy aquí 24/7 para resolver tus consultas.',
+}

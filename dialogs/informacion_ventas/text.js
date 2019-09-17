@@ -1,0 +1,3 @@
+module.exports = {
+  text1: `Comprar en Falabella.com es muy fácil, seguro y rápido, solo debes considerar el siguiente paso a paso y listo.\n\n 1. Inicia sesión o regístrate en el sitio.\n\n 2. Luego selecciona el producto que quieres comprar y agrégalo a la bolsa.\n\n 3. Elige la dirección donde quieres recibir tu compra.\n\n 4. Selecciona el tipo de despacho y escoge una fecha.\n\n Recuerda que también puedes dirigirte a cualquiera de nuestras tiendas a lo largo del país.`
+}

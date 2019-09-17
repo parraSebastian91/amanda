@@ -1,0 +1,14 @@
+[
+  {
+    "msgAlerta": "Lo sentimos, pero no podremos despachar tu producto ya que no ha pasado nuestros controles de calidad. Si aún no te contactamos, por favor haz click en el siguiente botón y te llamaremos para entregarte una solución a la brevedad.",
+    "msgAlertaAmanda": "Lo siento, pero tu producto no podrá ser despachado ya que no ha pasado nuestros controles de calidad."
+  },
+  {
+    "msgAlerta": "Tu orden aún no está lista para retiro. te enviaremos un email de confirmación.",
+    "msgAlertaAmanda": "mensaje 2 fallo"
+  },
+  {
+    "msgAlerta": "xxxxxx",
+    "msgAlertaAmanda": "mensaje 3 exitoso"
+  }
+]

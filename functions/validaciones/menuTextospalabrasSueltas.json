@@ -1,0 +1,34 @@
+[  
+	{  
+	   "fraseCliente":"reclamo",
+	   "tituloMenu":"¿Necesitas hacer un reclamo?",
+	   "opcionesMenu":"Si|NO",
+	   "intent": "/ingreso_reclamo"
+	},
+	{  
+	   "fraseCliente":"despacho",
+	   "tituloMenu":"¿Necesitas realizar el seguimiento de tu orden o ingresar una solicitud?",
+	   "opcionesMenu":"Seguimiento orden|Ingreso Solicitud",
+	   "intent":""
+	},
+	{  
+	   "fraseCliente":"devolver",
+	   "tituloMenu":"¿Necesitas devolver un producto?",
+	   "opcionesMenu":"Si|NO",
+		"intent": "/anulacion_orden_compra",
+		"argumento":"textDevolucion"
+	
+	},
+	{  
+	   "fraseCliente":"cambiar",
+	   "tituloMenu":"¿Necesitas cambiar un producto?",
+	   "opcionesMenu":"Si|NO",
+	   "intent":"/politicas_postventa"
+	},
+	{  
+	   "fraseCliente":"anular",
+	   "tituloMenu":"¿Necesitas anular una compra?",
+	   "opcionesMenu":"Si|NO",
+	   "intent":"/anulacion_orden_compra"
+	}
+ ]

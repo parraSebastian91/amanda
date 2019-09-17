@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.example
+.vscode
+logs.txt
+package-lock.json
+config/*
+!config/.gitkeep
+.jsbeautifyrc
+.scannerwork
+yarn.lock
+.eslintrc.json
+.history
